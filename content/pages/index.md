@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: Get started
+      - label: WHATSAPP
         altText: WHATSAPP
         url: 'https://chat.whatsapp.com/FaoUYMukdAjHaTMVyneImO'
         showIcon: false
