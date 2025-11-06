@@ -11,7 +11,7 @@ sections:
     text: ''
     actions:
       - label: Get started
-        altText: ''
+        altText: WHATSAPP
         url: 'https://chat.whatsapp.com/FaoUYMukdAjHaTMVyneImO'
         showIcon: false
         icon: arrowRight
