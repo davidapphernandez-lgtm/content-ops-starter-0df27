@@ -12,7 +12,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://chat.whatsapp.com/FaoUYMukdAjHaTMVyneImO'
         showIcon: false
         icon: arrowRight
         iconPosition: right
