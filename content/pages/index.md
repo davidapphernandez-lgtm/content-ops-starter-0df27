@@ -8,7 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: ''
+    text: |
+      UNETE A NUESTRO GRUPO CLIP EN EL WHATSAPP
     actions:
       - label: WHATSAPP
         altText: WHATSAPP
